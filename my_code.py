@@ -1,4 +1,4 @@
-# Collaborators (including web sites where you got help: (enter none if you didn't need help)
+# Collaborators (including web sites where you got help: (enter none if you didn't need help) none
 #  
 # A note on style: Dictionaries can be defined before or after functions.
 locations={'a1':' ', 'a2':' ','a3':' ','b1':' ', 'b2':' ', 'b3':' ', 'c1':' ', 'c2':' ','c3':' '}
